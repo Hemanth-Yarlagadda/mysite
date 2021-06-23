@@ -1,38 +1,34 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Engineer',
+  siteTitle: 'Hemanth Yarlagadda | DevOps Engineer',
   siteDescription:
-    'Chandrika Deb is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Hemanth Yarlagadda is a DevOps Engineer, based in USA, who loves learn and try out new things.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software engineer, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'devops, devops engineer, software engineer, cloud, AWS, GCP, Azure, CI/CD, Jenkins ',
+  siteUrl: 'https://hemanthyarlagadda.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
-  location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
-  twitterHandle: '@chandrikadeb7',
+  name: 'Hemanth Yarlagdda',
+  location: 'USA',
+  email: 'yarlaghh@mail.uc.edu',
+  github: 'https://github.com/Hemanth-Yarlagadda',
+  twitterHandle: '@Hemanthyarlag',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/Hemanth-Yarlagadda',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+      url: 'https://www.linkedin.com/in//',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/___cd.___/',
+      url: 'https://www.instagram.com/hemanthyarlagadda//',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://twitter.com/Hemanthyarlag',
     },
   ],
 
