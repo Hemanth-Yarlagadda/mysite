@@ -9,7 +9,7 @@ tech:
   - sslstrip
   - Python
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 Repository related to man in the middle attack
